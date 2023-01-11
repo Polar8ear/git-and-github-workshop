@@ -16,7 +16,7 @@
         let htmlString = '<ul>';
         
         for (let file of data) {
-          if (!/\.md/.test(file.path) {
+          if (!/\.md/.test(file.path) || /readme/i.test(file.path)) {
             continue    
           }
           
