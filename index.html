@@ -16,6 +16,10 @@
         let htmlString = '<ul>';
         
         for (let file of data) {
+          if (!/\.md/.test(file.path) {
+            continue    
+          }
+          
           htmlString += `<li><a href="${file.path.replace(/\..+$/, '')}">${file.name}</a></li>`;
         }
 
