@@ -7,3 +7,7 @@ The inventor of modern sushi is believed to be Hanaya Yohei, who invented nigiri
 Sushi is traditionally made with medium-grain white rice, though it can be prepared with brown rice or short-grain rice. It is very often prepared with seafood, such as squid, eel, yellowtail, salmon, tuna or imitation crab meat. Many types of sushi are vegetarian. It is often served with pickled ginger (gari), wasabi, and soy sauce. Daikon radish or pickled daikon (takuan) are popular garnishes for the dish.
 
 Sushi is sometimes confused with sashimi, a similar dish in Japanese cuisine that consists of thinly sliced raw fish or occasionally meat.[5]
+
+## Test commit.
+
+UKM banyak monyet.
